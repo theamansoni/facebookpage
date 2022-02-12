@@ -1,0 +1,89 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #dfe3ee;
+}
+.textbox{
+    margin-top: 232px;
+    margin-left: 155px;
+
+}
+h1{
+    font-size: 52px;
+    color: rgb(4, 97, 158);
+    font-family: sans-serif;
+}
+h2{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+
+.container{
+background-color: white;
+width: 390px;
+height: 360px;
+margin-top: -194px;
+margin-right: 160px;
+float: right;
+border-radius: 15px;
+text-align: center;
+
+
+
+}
+
+.form{
+float: right;
+background-color: white;
+margin-top: 20px;
+padding: 20px;
+border-radius: 15px;
+
+
+}
+
+.form input{
+    margin-top: 10px;
+    margin-left: -10px; 
+    margin-right: -10px;
+    padding:  17px;
+    width: 332px;
+    border-radius: 9px;
+    
+
+}
+
+button{
+    margin-top: 15px;
+    background-color: #1877f2;
+    padding: 16px;
+    width: 100%;
+    border-radius: 8px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+p{
+margin-top: 13px;
+background-color: white;
+font-size: 15px;
+color: blue;
+
+}
+p a{
+    background-color: white;
+}
+
+.btn{
+    background-color: white;
+}
+.btn button{
+background-color: rgb(37, 202, 37);
+margin-top: 20px;
+font-size: 15px;
+width: 220px;
+
+}
